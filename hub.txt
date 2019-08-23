@@ -1,6 +1,6 @@
 hub rheMac10
 shortLabel rheMac10
 longLabel Assembly hub for Mmul_10
-genomesFile https://github.com/yfhuang/rheMac10/blob/master/genomes.txt
+genomesFile https://raw.githubusercontent.com/yfhuang/rheMac10/blob/master/genomes.txt
 email yfh1202@sinica.edu.tw
-descriptionUrl https://github.com/yfhuang/rheMac10/blob/master/aboutHub.html
+descriptionUrl https://raw.githubusercontent.com/yfhuang/rheMac10/blob/master/aboutHub.html
