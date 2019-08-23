@@ -4,7 +4,7 @@ shortLabel Gene
 priority 11
 visibility dense
 color 0,0,0
-bigDataUrl https://raw.githubusercontent.com/yfhuang/rheMac10/blob/master/rheMac10.genes.bb
+bigDataUrl https://raw.githubusercontent.com/yfhuang/rheMac10/master/rheMac10.genes.bb
 type bigBed 4
 group map
 html gap
