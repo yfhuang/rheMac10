@@ -1,0 +1,10 @@
+track gene
+longLabel Gene
+shortLabel Gene
+priority 11
+visibility dense
+color 0,0,0
+bigDataUrl rheMac10/rheMac10.genes.bb
+type bigBed 4
+group map
+html ../trackDescriptions/gap

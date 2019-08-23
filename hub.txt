@@ -1,0 +1,6 @@
+hub rheMac10
+shortLabel rheMac10
+longLabel Assembly hub for Mmul_10
+genomesFile https://data.cyverse.org/dav-anon/iplant/home/yfhuang/trackHub/genomes.txt
+email yfh1202@sinica.edu.tw
+descriptionUrl https://data.cyverse.org/dav-anon/iplant/home/yfhuang/trackHub/aboutHub.html
