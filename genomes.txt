@@ -1,0 +1,11 @@
+genome rheMac10
+trackDb https://raw.githubusercontent.com/yfhuang/rheMac10/master/trackDb.txt
+groups https://raw.githubusercontent.com/yfhuang/rheMac10/master/groups.txt
+description rheMac10
+twoBitPath https://raw.githubusercontent.com/yfhuang/rheMac10/master/rheMac10.2bit
+organism Macaca mulatta
+defaultPos NC_041754.1:1000000-2000000
+orderKey 4800
+scientificName Rhesus macaque
+htmlPath https://raw.githubusercontent.com/yfhuang/rheMac10/master/description.html
+
