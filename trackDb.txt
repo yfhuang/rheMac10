@@ -5,7 +5,7 @@ shortLabel Gene
 longLabel Gene Information
 
 track Scaffolds
-type BAM
+type bam
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/yfhuang/trackHub/MASURCA.bam
 shortLabel Gene
 longLabel Scaffolds
