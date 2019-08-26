@@ -1,2 +1,11 @@
-track type=bigBed name=gene bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/yfhuang/trackHub/rheMac10/rheMac10.bigGenePred.bb
-track type=BAM name=MaSuRCA bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/yfhuang/trackHub/MASURCA.bam
+track Gene
+type bigBed
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/yfhuang/trackHub/rheMac10/rheMac10.bigGenePred.bb
+shortLabel Gene
+longLabel Gene Information
+
+track Scaffolds
+type BAM
+bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/yfhuang/trackHub/MASURCA.bam
+shortLabel Gene
+longLabel Scaffolds
