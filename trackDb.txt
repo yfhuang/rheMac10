@@ -1,5 +1,5 @@
 track Gene
-type bed12+8
+type bigGenePred
 bigDataUrl https://data.cyverse.org/dav-anon/iplant/home/yfhuang/trackHub/rheMac10/rheMac10.bigGenePred.bb
 shortLabel Gene
 longLabel Gene Information
