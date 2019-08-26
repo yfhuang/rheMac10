@@ -1,10 +1,2 @@
-track gene
-longLabel Gene
-shortLabel Gene
-priority 11
-visibility dense
-color 0,0,0
-bigDataUrl https://raw.githubusercontent.com/yfhuang/rheMac10/master/rheMac10.genes.bb
-type bigBed 4
-group map
-html gap
+track type=bigBed name=gene bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/yfhuang/trackHub/rheMac10/rheMac10.bigGenePred.bb
+track type=BAM name=MaSuRCA bigDataUrl=https://data.cyverse.org/dav-anon/iplant/home/yfhuang/trackHub/MASURCA.bam
