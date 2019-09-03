@@ -1,6 +1,6 @@
 genome rheMac10
 trackDb https://raw.githubusercontent.com/yfhuang/rheMac10/master/trackDb.txt
-groups https://raw.githubusercontent.com/yfhuang/rheMac10/master/groups.txt
+#groups https://raw.githubusercontent.com/yfhuang/rheMac10/master/groups.txt
 description rheMac10
 twoBitPath https://data.cyverse.org/dav-anon/iplant/home/yfhuang/trackHub/rheMac10/rheMac10.2bit
 organism Macaca mulatta
